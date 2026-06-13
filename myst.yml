@@ -2,18 +2,19 @@
 version: 1
 project:
   id: 909216d5-604e-42e5-bb36-9052a23cde77
-  # title: The best notebook
-  # description:
-  # keywords: []
-  # authors: []
-  # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
       - file: home.md
       - file: story.ipynb
-      - file: intro.md
+      - file: dataset_preprocessing.ipynb
+      - file: perspective_1.ipynb
+      - file: perspective_2.ipynb
+      - file: reflection.ipynb
 site:
-  template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  title: Lifestyle impact on education
+  template: article-theme
+  options:
+    logo: images/logo.png
+    favicon: images/logo.png
+    hide_footer_links: true
+  parts:
+    primary_sidebar_footer: footer.md
