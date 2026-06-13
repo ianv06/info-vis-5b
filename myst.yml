@@ -11,7 +11,7 @@ project:
       - file: reflection.ipynb
 site:
   title: Lifestyle impact on education
-  template: article-theme
+  template: book-theme
   options:
     logo: images/logo.png
     favicon: images/logo.png
