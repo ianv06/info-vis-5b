@@ -9,8 +9,8 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-- file: intro.md
-- file: test.ipynb
+      - file: intro.md
+      - file: story.ipynb
     
 site:
   template: book-theme
