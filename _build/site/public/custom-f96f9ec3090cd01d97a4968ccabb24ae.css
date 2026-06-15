@@ -1,0 +1,5 @@
+/* Example: shrink/grow the site logo */
+.site-logo img {
+  height: 80px;    /* change this size as you wish */
+  width: auto;     /* keep aspect ratio */
+}

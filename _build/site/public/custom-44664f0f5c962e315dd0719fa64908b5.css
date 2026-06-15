@@ -1,0 +1,13 @@
+img.h-9[alt="Lifestyle impact on education"] {
+  height: rem !important;
+  width: auto !important;
+  max-height: none !important;
+}
+
+header {
+  min-height: 4.5rem !important;
+}
+
+main {
+  padding-top: 1rem !important;
+}

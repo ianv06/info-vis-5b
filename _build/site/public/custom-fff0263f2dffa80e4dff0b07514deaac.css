@@ -1,0 +1,19 @@
+.myst-top-nav {
+  min-height: 88px !important;
+  padding-top: 0.75rem !important;
+  padding-bottom: 0.75rem !important;
+}
+
+.myst-home-link-logo img.h-9[alt="Lifestyle impact on education"] {
+  height: 4rem !important;
+  width: auto !important;
+  max-height: none !important;
+}
+
+main {
+  padding-top: 1rem !important;
+}
+
+html {
+  scroll-padding-top: 96px;
+}

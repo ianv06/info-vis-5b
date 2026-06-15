@@ -4,7 +4,6 @@ project:
   id: 909216d5-604e-42e5-bb36-9052a23cde77
   toc:
       - file: home.md
-      - file: story.ipynb
       - file: dataset_preprocessing.ipynb
       - file: perspective_1.ipynb
       - file: perspective_2.ipynb
@@ -13,8 +12,9 @@ site:
   title: Lifestyle impact on education
   template: book-theme
   options:
-    logo: images/logo.png
+    logo: images/logo2.png
     favicon: images/logo.png
+    style: styles/custom.css
     hide_footer_links: true
   parts:
     primary_sidebar_footer: footer.md
