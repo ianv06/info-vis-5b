@@ -3,7 +3,7 @@
     "files": [],
     "opts": {
       "execute": false,
-      "executeParallel": 7,
+      "executeParallel": 15,
       "pdf": false,
       "tex": false,
       "typst": false,
