@@ -3,11 +3,12 @@ version: 1
 project:
   id: 909216d5-604e-42e5-bb36-9052a23cde77
   toc:
-      - file: home.md
+      - file: home.ipynb
       - file: dataset_preprocessing.ipynb
       - file: perspective_1.ipynb
       - file: perspective_2.ipynb
       - file: reflection.ipynb
+      - file: work_distribution.md
 site:
   title: Lifestyle impact on education
   template: book-theme
