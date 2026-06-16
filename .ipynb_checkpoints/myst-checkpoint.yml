@@ -16,5 +16,8 @@ site:
     logo: images/logo.png
     favicon: images/logo.png
     hide_footer_links: true
+    hide_page_toc: true
+    style: styles/custom.css 
   parts:
     primary_sidebar_footer: footer.md
+

@@ -1,0 +1,13 @@
+/* Widen the central content column */
+.page main .content {
+  max-width: 1200px;       /* increase this for more width */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Optional: on very wide screens, allow even more width */
+@media (min-width: 1400px) {
+  .page main .content {
+    max-width: 1400px;
+  }
+}

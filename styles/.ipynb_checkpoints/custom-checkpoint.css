@@ -1,0 +1,16 @@
+/* Make main content area wider in the book theme */
+
+/* Let the outer container use more horizontal space */
+.bd-container {
+  max-width: 98% !important;
+}
+
+/* Inner container width */
+.bd-container .bd-container__inner {
+  max-width: 98% !important;
+}
+
+/* Widen the article content column */
+.bd-main .bd-content .bd-article-container {
+  max-width: 500em !important;  /* try 80em, 100em, 120em to taste */
+}
