@@ -1,23 +1,21 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   id: 909216d5-604e-42e5-bb36-9052a23cde77
   toc:
-      - file: home.ipynb
-      - file: dataset_preprocessing.ipynb
-      - file: perspective_1.ipynb
-      - file: perspective_2.ipynb
-      - file: reflection.ipynb
-      - file: work_distribution.md
+    - file: home.ipynb
+    - file: dataset_preprocessing.ipynb
+    - file: perspective_1.ipynb
+    - file: perspective_2.ipynb
+    - file: reflection.ipynb
+    - file: work_distribution.md
+
 site:
   title: Lifestyle impact on education
   template: book-theme
   options:
-    logo: images/logo.png
-    favicon: images/logo.png
+    logo_text: Lifestyle impact on education  
     hide_footer_links: true
-    hide_page_toc: true
-    style: styles/custom.css 
+    hide_toc: false
+    style: ./styles/custom.css
   parts:
     primary_sidebar_footer: footer.md
-
