@@ -1,1 +1,1 @@
-InfoVis Group 5B
+Information Visualisation Group 5B
