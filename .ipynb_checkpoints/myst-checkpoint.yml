@@ -16,7 +16,8 @@ site:
   options:
     logo: images/logo.png
     logo_dark: images/dark_logo.png
-    logo_text: Lifestyle impact on education  
+    logo_text: Lifestyle impact on education
+    favicon: images/dark_logo.png
     hide_footer_links: true
     hide_toc: false
     hide_outline: true
