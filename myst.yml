@@ -4,7 +4,7 @@ project:
   github: https://github.com/ianv06/info-vis-5b
   toc:
     - file: home.ipynb
-    - file: dataset_preprocessing.ipynb
+    - file: dataset_preprocessing.md
     - file: perspective_1.ipynb
     - file: perspective_2.ipynb
     - file: reflection.ipynb
@@ -17,13 +17,9 @@ site:
     logo: images/logo.png
     logo_dark: images/dark_logo.png
     logo_text: Lifestyle impact on education
-    favicon: images/dark_logo.svg
+    favicon: images/favicon.png
     hide_footer_links: true
     hide_toc: false
     hide_outline: true
-    style: ./styles/custom.css
   parts:
     primary_sidebar_footer: footer.md
-  actions:
-    - title: GitHub
-      url: https://github.com/ianv06/info-vis-5b
