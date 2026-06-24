@@ -1,4 +1,4 @@
-# Summary
+# Conclusion
 
 During this project, we first explored several datasets as a group and selected those related to education and lifestyle. These datasets allowed us to examine how different lifestyle factors may influence educational performance. Based on this, we aimed to answer the question of whether a strict lifestyle or a more balanced lifestyle leads to better academic outcomes. To investigate both perspectives, we created eight visualizations for each side, presenting evidence that either supports or challenges the effectiveness of each lifestyle.
 

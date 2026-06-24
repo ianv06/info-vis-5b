@@ -7,7 +7,7 @@ project:
     - file: notebooks/story/dataset_preprocessing.ipynb
     - file: notebooks/story/perspective_1.ipynb
     - file: notebooks/story/perspective_2.ipynb
-    - file: notebooks/story/summary.md
+    - file: notebooks/story/conclusion.md
     - file: notebooks/story/reflection.ipynb
     - file: notebooks/story/work_distribution.md
 
