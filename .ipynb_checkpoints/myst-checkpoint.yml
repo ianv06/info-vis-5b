@@ -4,9 +4,10 @@ project:
   github: https://github.com/ianv06/info-vis-5b
   toc:
     - file: home.ipynb
-    - file: dataset_preprocessing.md
+    - file: dataset_preprocessing.ipynb
     - file: perspective_1.ipynb
     - file: perspective_2.ipynb
+    - file: summary.md
     - file: reflection.ipynb
     - file: work_distribution.md
 
