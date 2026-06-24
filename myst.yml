@@ -3,13 +3,13 @@ project:
   id: 909216d5-604e-42e5-bb36-9052a23cde77
   github: https://github.com/ianv06/info-vis-5b
   toc:
-    - file: home.ipynb
-    - file: dataset_preprocessing.ipynb
-    - file: perspective_1.ipynb
-    - file: perspective_2.ipynb
-    - file: summary.md
-    - file: reflection.ipynb
-    - file: work_distribution.md
+    - file: notebooks/story/home.ipynb
+    - file: notebooks/story/dataset_preprocessing.ipynb
+    - file: notebooks/story/perspective_1.ipynb
+    - file: notebooks/story/perspective_2.ipynb
+    - file: notebooks/story/summary.md
+    - file: notebooks/story/reflection.ipynb
+    - file: notebooks/story/work_distribution.md
 
 site:
   title: Lifestyle impact on education
@@ -23,4 +23,4 @@ site:
     hide_toc: false
     hide_outline: true
   parts:
-    primary_sidebar_footer: footer.md
+    primary_sidebar_footer: notebooks/story/footer.md
