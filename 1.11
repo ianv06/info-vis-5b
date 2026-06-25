@@ -1,0 +1,46 @@
+3 channel Terms of Service accepted
+Channels:
+ - conda-forge
+ - defaults
+Platform: win-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | done
+Solving environment: - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - done
+
+## Package Plan ##
+
+  environment location: C:\Users\ianva\anaconda3
+
+  added / updated specs:
+    - scipy
+    - statsmodels
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2026.6.17  |       h4c7d964_0         126 KB  conda-forge
+    certifi-2026.6.17          |     pyhd8ed1ab_0         131 KB  conda-forge
+    conda-25.7.0               |  py313hfa70ccb_0         1.2 MB  conda-forge
+    openssl-3.6.3              |       hf411b9b_0         9.0 MB  conda-forge
+    pandas-2.3.3               |  py313hc90dcd4_2        13.2 MB  conda-forge
+    scipy-1.18.0               |  py313h97a0a95_0        20.8 MB
+    statsmodels-0.14.6         |  py313h0591002_0        11.0 MB  conda-forge
+    ------------------------------------------------------------
+                                           Total:        55.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  pandas             conda-forge/win-64::pandas-2.3.3-py313hc90dcd4_2 
+
+The following packages will be UPDATED:
+
+  ca-certificates    pkgs/main/win-64::ca-certificates-202~ --> conda-forge/noarch::ca-certificates-2026.6.17-h4c7d964_0 
+  certifi            pkgs/main/win-64::certifi-2026.5.20-p~ --> conda-forge/noarch::certifi-2026.6.17-pyhd8ed1ab_0 
+  conda              pkgs/main::conda-25.5.1-py313haa95532~ --> conda-forge::conda-25.7.0-py313hfa70ccb_0 
+  openssl               pkgs/main::openssl-3.5.7-hbb43b14_0 --> conda-forge::openssl-3.6.3-hf411b9b_0 
+  scipy                              1.17.1-py313h97a0a95_1 --> 1.18.0-py313h97a0a95_0 
+  statsmodels        pkgs/main::statsmodels-0.14.4-py313h8~ --> conda-forge::statsmodels-0.14.6-py313h0591002_0 
+
+
+Proceed ([y]/n)? 
